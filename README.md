@@ -1,6 +1,6 @@
 # Tableau-CitiBike
 
-![Image](images/citi-bike-station-bikes.jpg)
+![citi-bike](images/citi-bike-station-bikes.jpg)
 
 The goal of this project is to generate a utilization report for the New York City Citi Bike Program. Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage. For this project, data from June 2018 to May 2019 is collected. Raw data .csv file is not included here due to file size restraints.
 
