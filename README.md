@@ -6,4 +6,4 @@ The goal of this project is to generate a utilization report for the New York Ci
 
 Data downloaded from the Citi Bike webpage is cleaned and combined using Pandas on [data_cleaning.ipynb](data_cleaning.ipynb), subsequent analyses were performed with Tableau Public.
 
-The complete analysis report can be viewed [here](https://public.tableau.com/views/StartStationMap/Summary?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link), a PDF version is also avaiable [CitiBike_Report.pdf]. 
+Analyses results can be viewed either on the [Tableau Public site](https://public.tableau.com/views/StartStationMap/Summary?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link) or as a [PDF report](CitiBike_Report.pdf). 
